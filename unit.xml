@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 83.0.4103 (Windows 10.0.0)" package="unit" timestamp="2020-07-14T21:39:41" id="0" hostname="DESKTOP-RK9PGES" tests="5" errors="0" failures="0" time="0.095">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/83.0.4103.116 Safari/537.36"/>
+  </properties>
+  <testcase name="ColorPickerComponent Should render Initial UI" time="0.061" classname=".ColorPickerComponent"/>
+  <testcase name="ColorPickerComponent Clicking on color changes the color of the div - 2" time="0.011" classname=".ColorPickerComponent"/>
+  <testcase name="ColorPickerComponent Clicking on color changes the color of the div - 1" time="0.008" classname=".ColorPickerComponent"/>
+  <testcase name="ColorPickerComponent Clicking on color changes the color of the div - 4" time="0.007" classname=".ColorPickerComponent"/>
+  <testcase name="ColorPickerComponent Clicking on color changes the color of the div - 3" time="0.008" classname=".ColorPickerComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
